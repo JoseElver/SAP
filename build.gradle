@@ -65,8 +65,7 @@ dependencies {
     implementation 'com.github.javafaker:javafaker:1.0.2'
     implementation 'org.postgresql:postgresql:42.7.2'
     implementation name: 'sapgui-2.2.1'
-    implementation name: 'jacob'
-
+    implementation 'net.sf.jacob-project:jacob:1.18'
 
 }
 test {
